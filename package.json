@@ -1,0 +1,15 @@
+{
+  "name": "translator-api",
+  "version": "1.0.0",
+  "description": "Translator API using Node.js and Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.13.6",
+    "express": "^4.22.1",
+    "google-translate-api-x": "^10.7.2",
+    "mysql2": "^3.20.0"
+  }
+}
